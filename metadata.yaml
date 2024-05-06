@@ -1,0 +1,44 @@
+_repo: The-birds-of-Jamaica_73391
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hill, Richard
+    birthdate: 1795
+    deathdate: 1872
+    gutenberg_agent_id: '57038'
+    url: http://www.gutenberg.org/2009/agents/57038
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Hill_(Jamaica)
+creator:
+  author:
+    agent_name: Gosse, Philip Henry
+    alias: Gosse, P. H. (Philip Henry)
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '36052'
+    url: http://www.gutenberg.org/2009/agents/36052
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Henry_Gosse
+description: 'Plates were issued in 1849, with title: Illustrations of the birds of
+  Jamaica. See #73392.'
+gutenberg_issued: '2024-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73391'
+  lccn: 08028001
+language: en
+pgterms:marc904: https://archive.org/details/birdsofjamaica00gossuoft
+pgterms:marc905: 20220629122442gosse
+pgterms:marc906: '1847'
+pgterms:marc907: gb
+production_note: Peter Becker, Robert Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJ. van Voorst, $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Jamaica'
+- !lcc 'QL'
+- GITenberg
+title: The birds of Jamaica
+url: http://www.gutenberg.org/ebooks/73391
