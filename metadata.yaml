@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '57038'
     url: http://www.gutenberg.org/2009/agents/57038
     wikipedia: https://en.wikipedia.org/wiki/Richard_Hill_(Jamaica)
+covers:
+- cover_type: archival
+  image_path: 73391-h/images/cover.jpg
 creator:
   author:
     agent_name: Gosse, Philip Henry
@@ -19,6 +22,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Philip_Henry_Gosse
 description: 'Plates were issued in 1849, with title: Illustrations of the birds of
   Jamaica. See #73392.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73391#The-birds-of-Jamaica
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
